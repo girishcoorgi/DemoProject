@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-27T05:22:06Z" name="Default suite" finished-at="2020-03-27T05:22:18Z" duration-ms="11770">
+    <groups>
+    </groups>
+    <test started-at="2020-03-27T05:22:06Z" name="Default test" finished-at="2020-03-27T05:22:18Z" duration-ms="11770">
+      <class name="com.Everest.DemoProject.TestClassLogin">
+        <test-method is-config="true" signature="launchdriver()[pri:0, instance:com.Everest.DemoProject.TestClassLogin@1b11171f]" started-at="2020-03-27T05:22:06Z" name="launchdriver" finished-at="2020-03-27T05:22:10Z" duration-ms="4381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method signature="Test1()[pri:0, instance:com.Everest.DemoProject.TestClassLogin@1b11171f]" started-at="2020-03-27T05:22:10Z" name="Test1" finished-at="2020-03-27T05:22:17Z" duration-ms="6370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.Everest.DemoProject.TestClassLogin@1b11171f]" started-at="2020-03-27T05:22:17Z" name="quit" finished-at="2020-03-27T05:22:18Z" duration-ms="995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.Everest.DemoProject.TestClassLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
